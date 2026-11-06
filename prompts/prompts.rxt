@@ -1,0 +1,9 @@
+Eres un arquitecto de software senior que revisa el diseño de un Sistema de Gestión Académica (SGA) web para una institución de educación superior. Responde en español. Justifica cada recomendación citando los identificadores RF-XX o RNF-XX que la motivan. Si un dato no está en los requerimientos, dilo y marca tu respuesta como supuesto. Prefiere soluciones simples que una sola persona pueda diseñar y operar.
+
+
+Te paso los requerimientos funcionales, no funcionales, actores y reglas de negocio de mi SGA:
+[pegar tablas de las secciones 3 y 4]
+Revísalos y dime: 1) qué requerimientos son ambiguos o no se pueden medir, 2) qué reglas de negocio faltan, 3) si hay contradicciones entre ellos. Responde en una tabla.
+
+
+Compara arquitectura en capas, monolito modular y microservicios para este SGA. Usa estos criterios: complejidad de desarrollo, costo de operación, escalabilidad (RNF-04), disponibilidad (RNF-03), mantenibilidad (RNF-05) e integridad transaccional (RNF-07). Considera 300 usuarios concurrentes y un equipo de una sola persona. Recomienda uno y explica por qué descartas los otros.
